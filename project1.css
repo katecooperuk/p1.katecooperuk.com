@@ -27,6 +27,11 @@ line-height: 15pt;
 color: #040e29;
 }
 
+ul, li {
+font-size: 90%;
+color: #666;
+}
+
 a, a:link {
 color: #b36f9b;
 text-decoration: none;
