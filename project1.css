@@ -8,3 +8,21 @@ border: 0;
 background: #cce0ff;
 font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
 }
+
+h1, h2 {
+color: #0d3362;
+font-weight: 400;
+}
+
+h3, h4 {
+padding: 20px 0 0 0;
+color: #746db0;
+font-weight: 400;
+}
+
+
+p {
+font-size: 100%;
+line-height: 15pt;
+color: #040e29;
+}
