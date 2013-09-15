@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS File for Project 1 */
+
+body {
+margin: 50px;
+padding: 0;
+border: 0;
+background: #cce0ff;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
