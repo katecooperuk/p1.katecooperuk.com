@@ -26,3 +26,14 @@ font-size: 100%;
 line-height: 15pt;
 color: #040e29;
 }
+
+a, a:link {
+color: #b36f9b;
+text-decoration: none;
+}
+
+a:hover {
+color: #80c1e1;
+text-decoration: none;
+font-size: 100%;
+}
